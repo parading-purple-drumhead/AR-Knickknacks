@@ -1,4 +1,4 @@
-# AR Knickknack Project
+# AR Knickknacks
 
 ## Description
 
@@ -30,7 +30,7 @@ Follow these steps to install and run the AR Knickknack project:
 3. **Clone the Repository:**
    - Clone this GitHub repository to your local machine using the following command:
      ```
-     git clone https://github.com/your-username/ar-knickknack.git
+     git clone https://github.com/parading-purple-drumhead/AR-Knickknacks.git
      ```
 
 4. **Open Project in Unity:**
